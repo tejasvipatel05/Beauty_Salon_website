@@ -1,5 +1,4 @@
 'use client';
-import { useTheme } from '@/context/ThemeContext';
 import landingstyles from '@/styles/Landing.module.css';
 
 export default function Home() {
